@@ -1,0 +1,29 @@
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  Color: blue;
+  font-weight: bold;
+}
+
+h2 {
+  background-color: aqua;
+  color: darkorange;
+}
+
+p {
+  color: orange;
+  border: solid 1px red;
+  background: lightcoral;
+  color: white;
+}
+
+ul {
+  margin-left: 50px;
+}
+
+ul li {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: yellow;
+}
